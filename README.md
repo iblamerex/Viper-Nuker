@@ -27,22 +27,32 @@
    
 ## Features List
 
-- ☑️ Change Guild Name
-- ☑️ Nickname All Members
-- ☑️ Ban All Members
-- ☑️ Kick All Members
-- ☑️ Unban All Members
+- ☑️ Mass Ban
+- ☑️ Mass Unban
+- ☑️ Mass Kick
 - ☑️ Prune Members
+- ☑️ Nick all
 - ☑️ Create Channels
-- ☑️ Create Roles
 - ☑️ Delete Channels
-- ☑️ Delete Roles
-- ☑️ Delete Emojis
-- ☑️ Spam Channels
-- ☑️ Shuffle Channels
-- ☑️ Unban Members
 - ☑️ Rename Channels
+- ☑️ Lock Channels
+- ☑️ Unlock Channels
+- ☑️ Hide Channels
+- ☑️ Unhide Channels
+- ☑️ Spam Channels
+- ☑️ Webhook Spam
+- ☑️ Dm All
+- ☑️ Create Roles
+- ☑️ Delete Roles
 - ☑️ Rename Roles
+- ☑️ Full Nuke
+- ☑️ Delete Emojis
+- ☑️ Rename Guild
+- ☑️ Avatar Change
+- ☑️ Change Server
+- ☑️ Admin Everyone
+- ☑️ Get Admin
+- ☑️ Get Invite Link
 
 # Credits
 - Discord - **@.rex4sure.#0**
